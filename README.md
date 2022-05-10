@@ -9,8 +9,8 @@ This repository contains the code and pre-trained models for our paper [Compress
 
 We propose **H**omomorphic **P**rojective **D**istillation (HPD) to learn compressed sentence embeddings. Our method augments a small Transformer encoder model with learnable projection layers to produce compact representations while mimicking a large pre-trained language model to retain the sentence representation quality. The following figure is an illustration of our models.
 
-<div style="text-align: center"><img src="figure/model.png" width="400"></div>
-
+<!-- <div style="text-align: center"><img src="figure/model.png" width="400"></div> -->
+![](figure/model.png)
 
 ## Getting Started
 
