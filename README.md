@@ -118,10 +118,19 @@ Please see [Evaluation](https://github.com/princeton-nlp/SimCSE#evaluation) of S
 Please cite our paper if you use HPD in your work:
 
 ```bibtex
-@article{zhao2022compressing,
-  title={Compressing Sentence Representation for Semantic Retrieval via Homomorphic Projective Distillation},
-  author={Zhao, Xuandong and Yu, Zhiguo and Wu, Ming and Li, Lei},
-  journal={arXiv preprint arXiv:2203.07687},
-  year={2022}
+@inproceedings{zhao-etal-2022-compressing,
+    title = "Compressing Sentence Representation for Semantic Retrieval via Homomorphic Projective Distillation",
+    author = "Zhao, Xuandong  and
+      Yu, Zhiguo  and
+      Wu, Ming  and
+      Li, Lei",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.64",
+    pages = "774--781",
 }
+
 ```
